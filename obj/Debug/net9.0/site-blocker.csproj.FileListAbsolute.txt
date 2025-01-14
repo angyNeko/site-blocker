@@ -1,0 +1,15 @@
+D:\site-blocker\bin\Debug\net9.0\site-blocker.exe
+D:\site-blocker\bin\Debug\net9.0\site-blocker.deps.json
+D:\site-blocker\bin\Debug\net9.0\site-blocker.runtimeconfig.json
+D:\site-blocker\bin\Debug\net9.0\site-blocker.dll
+D:\site-blocker\bin\Debug\net9.0\site-blocker.pdb
+D:\site-blocker\obj\Debug\net9.0\site-blocker.GeneratedMSBuildEditorConfig.editorconfig
+D:\site-blocker\obj\Debug\net9.0\site-blocker.AssemblyInfoInputs.cache
+D:\site-blocker\obj\Debug\net9.0\site-blocker.AssemblyInfo.cs
+D:\site-blocker\obj\Debug\net9.0\site-blocker.csproj.CoreCompileInputs.cache
+D:\site-blocker\obj\Debug\net9.0\site-blocker.sourcelink.json
+D:\site-blocker\obj\Debug\net9.0\site-blocker.dll
+D:\site-blocker\obj\Debug\net9.0\refint\site-blocker.dll
+D:\site-blocker\obj\Debug\net9.0\site-blocker.pdb
+D:\site-blocker\obj\Debug\net9.0\site-blocker.genruntimeconfig.cache
+D:\site-blocker\obj\Debug\net9.0\ref\site-blocker.dll
